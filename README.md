@@ -44,6 +44,10 @@ A beautifully crafted Islamic (Hijri) calendar app for iOS and Android. This rep
 
 Taqwim does not collect, share, or transmit any personal data. See [Privacy Policy](privacy.md).
 
+## Terms
+
+See [Terms of Use](terms.md).
+
 ## Support
 
 See [Support](support.md) for FAQs and contact information.
