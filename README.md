@@ -1,6 +1,6 @@
 # Taqwim — Islamic Calendar
 
-A beautifully crafted Islamic (Hijri) calendar app for iOS built with SwiftUI.
+A beautifully crafted Islamic (Hijri) calendar app for iOS and Android. This repository hosts the app's public privacy policy and support pages.
 
 ## Features
 
@@ -28,20 +28,22 @@ A beautifully crafted Islamic (Hijri) calendar app for iOS built with SwiftUI.
 
 ### Widgets
 - **Home Screen Widget** — Hijri date and moon phase at a glance
-- **Lock Screen Widget** — Compact circular widget for the lock screen
+- **Lock Screen Widget** — Compact circular widget for the lock screen (iOS)
+- **Prayer Times Widget** — Today's prayer times with the current prayer highlighted
 
 ## Requirements
 
 - iOS 17.0+
+- Android 8.0+
 
 ## Dependencies
 
-- [Adhan](https://github.com/batoulapps/adhan-swift) — Prayer time calculations
+- [Adhan](https://github.com/batoulapps/adhan-swift) and [Adhan Kotlin](https://github.com/batoulapps/adhan-kotlin) — Prayer time calculations
 
 ## Privacy
 
-Taqwim does not collect, store, or transmit any personal data. See [Privacy Policy](PRIVACY_POLICY.md).
+Taqwim does not collect, share, or transmit any personal data. See [Privacy Policy](privacy.md).
 
 ## Support
 
-See [Support](SUPPORT.md) for FAQs and contact information.
+See [Support](support.md) for FAQs and contact information.
